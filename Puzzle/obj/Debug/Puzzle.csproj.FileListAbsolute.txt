@@ -1,0 +1,75 @@
+C:\00works\c#\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\00works\c#\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmMain.resources
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmImgSelector.resources
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\PuzzleMain.Properties.Resources.resources
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\WaitingProgress.frmWaiting.resources
+C:\00works\c#\Puzzle\Puzzle\bin\Debug\Puzzle.exe.manifest
+C:\00works\c#\Puzzle\Puzzle\bin\Debug\Puzzle.application
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.TrustInfo.xml
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.exe.manifest
+C:\00works\c#\Puzzle\Puzzle\obj\Debug\Puzzle.application
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.exe
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.pdb
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.exe.manifest
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.application
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.exe
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.pdb
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.frmImgSelector.resources
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.frmMain.resources
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\WaitingProgress.frmWaiting.resources
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.Properties.Resources.resources
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.TrustInfo.xml
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.exe.manifest
+C:\00works\c#\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.application
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.frmImgSelector.resources
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.frmMain.resources
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\WaitingProgress.frmWaiting.resources
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\PuzzleMain.Properties.Resources.resources
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.exe
+E:\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.exe.manifest
+E:\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.application
+E:\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.exe
+E:\Puzzle\Puzzle090715\Puzzle\bin\Debug\Puzzle.pdb
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.TrustInfo.xml
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.exe.manifest
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.application
+E:\Puzzle\Puzzle090715\Puzzle\obj\Debug\Puzzle.pdb
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+K:\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe.manifest
+K:\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.application
+K:\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+K:\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\ResolveAssemblyReference.cache
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmImgSelector.resources
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmMain.resources
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\WaitingProgress.frmWaiting.resources
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.Properties.Resources.resources
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.TrustInfo.xml
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe.manifest
+K:\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.application
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe.manifest
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.application
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmImgSelector.resources
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.frmMain.resources
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\WaitingProgress.frmWaiting.resources
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\PuzzleMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.TrustInfo.xml
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe.manifest
+C:\Documents and Settings\Administrator\바탕 화면\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.application
